@@ -44,7 +44,6 @@ body {background-color:rgba(0,0,0,0.15);}
     margin-right:12px;
 }
 #wrap .tab_menu .today {
-    font-weight:500;
 }
 
 #wrap .tab_contents {}
@@ -55,7 +54,7 @@ body {background-color:rgba(0,0,0,0.15);}
 #wrap .tab_contents .contents a {
     float:left; line-height:45px;
 }
-/* 상태선택자 ;hover */
+/* 상태선택자 :hover */
 #wrap .tab_contents .contents:hover {border-bottom:2px solid #000}
 #wrap .tab_contents .contents:hover a {color:#888;}
 #wrap .tab_contents .contents .date {
